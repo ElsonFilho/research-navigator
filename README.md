@@ -50,7 +50,7 @@ A rigorous comparative evaluation framework that systematically assessed multi-a
 - Generate statistical reports with visualizations
 - Export results for further analysis
 
-📄 **[→ Detailed Evaluation Documentation](docs/EVALUATION.md)**
+📄 **[→ Detailed Evaluation Documentation](docs\Evaluation.md)**
 
 ---
 
@@ -64,7 +64,7 @@ An extended interface is under development and will enable researchers to upload
 - Interactive queries
 - Compare multi-agent responses against baseline (single LLM) (blindly)
 
-📄 **[→ Detailed System Documentation](docs/SYSTEM.md)**
+📄 **[→ Detailed System Documentation](docs/System.md)**
 
 ---
 
@@ -119,12 +119,12 @@ The multi-agent RAG system comprises 6 specialized agents working in coordinatio
 ## Documentation
 
 **Technical Documentation:**
-- **[Evaluation Experiment Details](docs/EVALUATION.md)** - Complete evaluation methodology, test set, statistical analysis, results
-- **[System Architecture Details](docs/SYSTEM.md)** - Agent descriptions, workflow, configuration, usage examples
+- **[Evaluation Experiment Details](docs/Evaluation.md)** - Complete evaluation methodology, test set, statistical analysis, results
+- **[System Architecture Details](docs/System.md)** - Agent descriptions, workflow, configuration, usage examples
 
 **Project Documentation:**
 - **[Thesis Paper](docs/CAS_Gen_AI_SeminarPaper_ELSON_FILHO.docx)** - Complete thesis document
-- **[Complete Query Set](data/test_queries_100.csv)** - 100 evaluation queries with metadata
+- **[Complete Query Set](data/test_queries/)** - evaluation queries
 
 ---
 
