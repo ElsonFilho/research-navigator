@@ -50,7 +50,7 @@ A rigorous comparative evaluation framework that systematically assessed multi-a
 - Generate statistical reports with visualizations
 - Export results for further analysis
 
-📄 **[→ Detailed Evaluation Documentation](docs\Evaluation.md)**
+📄 **[→ Detailed Evaluation Documentation](docs/Evaluation.md)**
 
 ---
 
