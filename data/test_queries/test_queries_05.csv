@@ -1,0 +1,6 @@
+query_id,query_text,topic_category,expected_coverage,segment
+Q001,How does a multi-agent architecture compare to single-model approaches?,NLP,high,Jan-25
+Q002,What approaches have been proposed for efficient computer vision on edge devices?,Computer Vision,high,Jan-25
+Q003,How do researchers improve sample efficiency in reinforcement learning?,Reinforcement Learning,medium,Jan-25
+Q004,How do researchers improve efficiency and reduce computational costs of large language models?,NLP,high,Jan-25
+Q005,How is explainability and interpretability achieved in language models?,NLP,medium,Jan-25

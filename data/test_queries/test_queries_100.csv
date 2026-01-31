@@ -1,0 +1,101 @@
+query_id,query_text,topic_category,expected_coverage,segment
+Q001,How does a multi-agent architecture compare to single-model approaches?,NLP,high,1
+Q002,What approaches have been proposed for efficient computer vision on edge devices?,Computer Vision,high,1
+Q003,How do researchers improve sample efficiency in reinforcement learning?,Reinforcement Learning,medium,1
+Q004,What approaches address adversarial robustness in language models?,NLP,high,1
+Q005,How is explainability and interpretability achieved in language models?,NLP,medium,1
+Q006,How do researchers improve robustness of vision models against adversarial attacks?,Computer Vision,high,1
+Q007,What model compression techniques reduce memory and computation requirements?,Edge Computing,high,1
+Q008,How is transfer learning applied in computer vision tasks?,Computer Vision,medium,1
+Q009,What approaches enable multi-agent reinforcement learning and cooperation?,Reinforcement Learning,medium,1
+Q010,How do researchers address domain adaptation challenges in computer vision?,Computer Vision,low,1
+Q011,What methods enable in-context learning and prompt-based adaptation in LLMs?,NLP,high,1
+Q012,How is quantization applied to enable efficient neural network inference?,Edge Computing,high,1
+Q013,How do researchers ensure robustness and safety in RL policies?,Reinforcement Learning,medium,1
+Q014,What approaches improve multimodal learning combining vision and language?,Multimodal,medium,1
+Q015,How do researchers enable deep learning on resource-constrained edge devices?,Edge Computing,high,1
+Q016,What self-supervised learning methods are used for visual representation learning?,Computer Vision,low,1
+Q017,How do researchers address safety and alignment challenges in large language models?,NLP,high,1
+Q018,What approaches optimize energy consumption in deep learning systems?,Edge Computing,high,1
+Q019,How is reinforcement learning applied to robotic manipulation tasks?,Robotics,medium,1
+Q020,What approaches enable few-shot learning in visual recognition tasks?,Computer Vision,medium,1
+Q021,How do researchers apply machine learning to healthcare and medical applications?,Healthcare,medium,1
+Q022,What approaches improve adversarial training and certified robustness?,Adversarial,high,1
+Q023,How do diffusion models contribute to image generation and synthesis?,Computer Vision,low,1
+Q024,What optimization techniques improve convergence speed in neural network training?,Optimization,high,1
+Q025,How do transformer architectures enable efficient attention mechanisms?,NLP,high,1
+Q026,How do researchers address catastrophic forgetting in continual learning systems?,Optimization,low,2
+Q027,What approaches enable neural architecture search for automated model design?,Optimization,medium,2
+Q028,How is knowledge distillation used to transfer capabilities from large to small models?,Edge Computing,high,2
+Q029,What methods improve semantic segmentation with limited annotations?,Computer Vision,medium,2
+Q030,How do researchers handle distribution shift in deployed machine learning systems?,Optimization,medium,2
+Q031,What approaches enable privacy-preserving machine learning?,Privacy,low,2
+Q032,How is meta-learning applied to enable rapid task adaptation?,Optimization,medium,2
+Q033,What techniques improve object detection accuracy in complex scenes?,Computer Vision,high,2
+Q034,How do researchers address bias and fairness in machine learning models?,Fairness,medium,2
+Q035,What approaches enable efficient training of deep neural networks?,Optimization,high,2
+Q036,How is uncertainty quantification achieved in deep learning predictions?,Explainability,medium,2
+Q037,What methods enable cross-modal learning between different data types?,Multimodal,medium,2
+Q038,How do researchers improve generalization in neural networks?,Optimization,high,2
+Q039,What approaches enable online learning and real-time adaptation?,Optimization,medium,2
+Q040,How is contrastive learning used for representation learning?,Optimization,medium,2
+Q041,What techniques improve robustness to out-of-distribution inputs?,Adversarial,medium,2
+Q042,How do researchers enable interpretable decision-making in neural networks?,Explainability,high,2
+Q043,What approaches optimize hyperparameter tuning in deep learning?,Optimization,medium,2
+Q044,How is curriculum learning applied to improve training efficiency?,Optimization,medium,2
+Q045,What methods enable efficient inference on mobile and IoT devices?,Edge Computing,high,2
+Q046,How do researchers address long-tail recognition problems?,Computer Vision,medium,2
+Q047,What approaches improve neural network pruning without accuracy loss?,Edge Computing,medium,2
+Q048,How is attention mechanism applied beyond transformers?,NLP,medium,2
+Q049,What techniques enable zero-shot learning capabilities?,Computer Vision,medium,2
+Q050,How do researchers improve training stability in deep networks?,Optimization,medium,2
+Q051,What approaches enable active learning to reduce annotation costs?,Optimization,medium,3
+Q052,How is neural rendering applied to synthesize novel views?,Computer Vision,low,3
+Q053,What methods improve robustness to adversarial examples in deployment?,Adversarial,high,3
+Q054,How do researchers address covariate shift in machine learning?,Optimization,medium,3
+Q055,What approaches enable efficient graph neural network training?,Optimization,medium,3
+Q056,How is self-training used in semi-supervised learning?,Optimization,medium,3
+Q057,What techniques improve video understanding and temporal modeling?,Computer Vision,medium,3
+Q058,How do researchers enable causal reasoning in neural networks?,Optimization,low,3
+Q059,What approaches optimize batch size and learning rate scheduling?,Optimization,high,3
+Q060,How is data augmentation used to improve model robustness?,Optimization,high,3
+Q061,What methods enable efficient multimodal fusion?,Multimodal,medium,3
+Q062,How do researchers address label noise in training data?,Optimization,medium,3
+Q063,What approaches improve neural network calibration?,Optimization,medium,3
+Q064,How is ensemble learning applied in deep learning systems?,Optimization,medium,3
+Q065,What techniques enable efficient 3D vision and depth estimation?,Computer Vision,medium,3
+Q066,How do researchers improve few-shot learning with meta-learning?,Optimization,medium,3
+Q067,What approaches enable lifelong learning without forgetting?,Optimization,low,3
+Q068,How is neural architecture adaptation applied to new tasks?,Optimization,medium,3
+Q069,What methods improve sample efficiency in imitation learning?,Reinforcement Learning,low,3
+Q070,How do researchers address mode collapse in generative models?,Computer Vision,low,3
+Q071,What approaches enable efficient attention for long sequences?,NLP,medium,3
+Q072,How is representation learning applied across different domains?,Optimization,high,3
+Q073,What techniques improve robustness to natural distribution shifts?,Adversarial,medium,3
+Q074,How do researchers enable compositional generalization?,Optimization,low,3
+Q075,What approaches optimize gradient flow in very deep networks?,Optimization,high,3
+Q076,How is neural implicit representation used for 3D reconstruction?,Computer Vision,low,4
+Q077,What methods enable efficient vision transformers?,Computer Vision,medium,4
+Q078,How do researchers address spurious correlations in learned models?,Optimization,medium,4
+Q079,What approaches enable test-time adaptation?,Optimization,medium,4
+Q080,How is contrastive predictive coding applied for representation learning?,Optimization,medium,4
+Q081,What techniques improve robustness to common corruptions?,Adversarial,medium,4
+Q082,How do researchers enable efficient language model fine-tuning?,NLP,high,4
+Q083,What approaches optimize memory usage during training?,Optimization,high,4
+Q084,How is neural program synthesis applied to code generation?,NLP,low,4
+Q085,What methods enable efficient video generation?,Computer Vision,low,4
+Q086,How do researchers improve adversarial robustness through data augmentation?,Adversarial,high,4
+Q087,What approaches enable neural architecture co-design with hardware?,Edge Computing,low,4
+Q088,How is instance segmentation improved in dense scenes?,Computer Vision,medium,4
+Q089,What techniques enable efficient point cloud processing?,Computer Vision,medium,4
+Q090,How do researchers address distribution calibration in neural networks?,Optimization,medium,4
+Q091,What approaches enable efficient self-supervised learning at scale?,Optimization,medium,4
+Q092,How is neural style transfer applied beyond images?,Computer Vision,low,4
+Q093,What methods improve robustness to geometric transformations?,Adversarial,medium,4
+Q094,How do researchers enable efficient multi-task learning?,Optimization,medium,4
+Q095,What approaches optimize communication in distributed training?,Optimization,medium,4
+Q096,How is neural motion forecasting applied to autonomous systems?,Robotics,low,4
+Q097,What techniques enable efficient neural video compression?,Computer Vision,low,4
+Q098,How do researchers improve robustness through adversarial training variants?,Adversarial,medium,4
+Q099,What approaches enable efficient scene understanding?,Computer Vision,medium,4
+Q100,How is neural denoising applied across different modalities?,Computer Vision,low,4

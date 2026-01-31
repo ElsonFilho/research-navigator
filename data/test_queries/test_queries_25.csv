@@ -1,0 +1,26 @@
+query_id,query_text,topic_category,expected_coverage,segment
+Q001,How does a multi-agent architecture compare to single-model approaches?,NLP,high,Jan-25
+Q002,What approaches have been proposed for efficient computer vision on edge devices?,Computer Vision,high,Jan-25
+Q003,How do researchers improve sample efficiency in reinforcement learning?,Reinforcement Learning,medium,Jan-25
+Q004,What approaches address adversarial robustness in language models?,NLP,high,Jan-25
+Q005,How is explainability and interpretability achieved in language models?,NLP,medium,Jan-25
+Q006,How do researchers improve robustness of vision models against adversarial attacks?,Computer Vision,high,Jan-25
+Q007,What model compression techniques reduce memory and computation requirements?,Edge Computing,high,Jan-25
+Q008,How is transfer learning applied in computer vision tasks?,Computer Vision,medium,Jan-25
+Q009,What approaches enable multi-agent reinforcement learning and cooperation?,Reinforcement Learning,medium,Jan-25
+Q010,How do researchers address domain adaptation challenges in computer vision?,Computer Vision,low,Jan-25
+Q011,What methods enable in-context learning and prompt-based adaptation in LLMs?,NLP,high,Jan-25
+Q012,How is quantization applied to enable efficient neural network inference?,Edge Computing,high,Jan-25
+Q013,How do researchers ensure robustness and safety in RL policies?,Reinforcement Learning,medium,Jan-25
+Q014,What approaches improve multimodal learning combining vision and language?,Multimodal,medium,Jan-25
+Q015,How do researchers enable deep learning on resource-constrained edge devices?,Edge Computing,high,Jan-25
+Q016,What self-supervised learning methods are used for visual representation learning?,Computer Vision,low,Jan-25
+Q017,How do researchers address safety and alignment challenges in large language models?,NLP,high,Jan-25
+Q018,What approaches optimize energy consumption in deep learning systems?,Edge Computing,high,Jan-25
+Q019,How is reinforcement learning applied to robotic manipulation tasks?,Robotics,medium,Jan-25
+Q020,What approaches enable few-shot learning in visual recognition tasks?,Computer Vision,medium,Jan-25
+Q021,How do researchers apply machine learning to healthcare and medical applications?,Healthcare,medium,Jan-25
+Q022,What approaches improve adversarial training and certified robustness?,Adversarial,high,Jan-25
+Q023,How do diffusion models contribute to image generation and synthesis?,Computer Vision,low,Jan-25
+Q024,What optimization techniques improve convergence speed in neural network training?,Optimization,high,Jan-25
+Q025,How do transformer architectures enable efficient attention mechanisms?,NLP,high,Jan-25
