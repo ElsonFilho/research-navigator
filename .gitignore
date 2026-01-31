@@ -66,9 +66,6 @@ data/evaluation/statistical_*.txt
 data/chromadb/*
 !data/chromadb/.gitkeep
 
-# PDFs (research papers)
-*.pdf
-
 # Large temporary files
 structure.txt
 
