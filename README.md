@@ -123,7 +123,7 @@ The multi-agent RAG system comprises 6 specialized agents working in coordinatio
 - **[System Architecture Details](docs/System.md)** - Agent descriptions, workflow, configuration, usage examples
 
 **Project Documentation:**
-- **[Thesis Paper](docs/CAS_Gen_AI_SeminarPaper_ELSON_FILHO.docx)** - Complete thesis document
+- **[Thesis Paper](docs/CAS_Gen_AI_SeminarPaper_ELSON_FILHO.pdf)** - Complete thesis document
 - **[Complete Query Set](data/test_queries/)** - evaluation queries
 
 ---
